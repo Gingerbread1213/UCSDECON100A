@@ -1,0 +1,23 @@
+---
+title: "ECON100A"
+author: "Vincent"
+date: "2022-12-11"
+output: html_document
+---
+
+```{r}
+
+```
+
+
+f(x,y)[utility]
+g(x,y)[budget constrain]
+
+Lagrangian 
+
+$\lambda$ is the change of the utility per change of income $\frac{du(x,y)}{dY}$
+
+at the optimal solution, $\frac{fx(x,y)}{fy(x,y)} = \frac{gx(x,y)}{gy(x,y)}$ where MRS = MRT
+
+interior solution means strictly positive quantite for both x and y, 
+cornor solution means the consumer only want one of the good.
